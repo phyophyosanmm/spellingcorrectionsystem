@@ -35,4 +35,4 @@ An interactive **Gradio interface** was implemented to highlight errors (red und
 The hybrid Bayesian–Levenshtein spelling correction system achieved **strong accuracy and responsiveness** in business-domain text. While effective for domain-specific tasks, future improvements could include:
 - Expanding the corpus for broader vocabulary coverage  
 - Incorporating neural-based N-gram or transformer models to better capture long-range dependencies  
-3
+
