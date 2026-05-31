@@ -1,4 +1,4 @@
-## 📈 Final Results – Part A: Spelling Correction System
+## 📈 Final Results – Spelling Correction System
 
 ### 🔍 Overview
 The spelling correction system was designed as a **hybrid framework** combining:
